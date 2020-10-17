@@ -25,7 +25,13 @@
 다른 그림은 맞춰도 고흐에게 영감을 줄 수 없으니까요!
 
 🚨Release mode로 빌드시 오류가 생기기 때문에 exe파일이 없습니다.🚨
+
 🚨midtermGogh.vcxproj를 실행하여 Debug 모드로 빌드해주세요.🚨
+
+
+
+
+
 
 
 > CAU 객체지향프로그래밍 2020년도 2학기 Personal Assignment 입니다.
